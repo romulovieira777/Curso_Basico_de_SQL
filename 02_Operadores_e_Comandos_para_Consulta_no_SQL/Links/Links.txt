@@ -1,0 +1,14 @@
+MySQL - SELECT - Realizar Consultas simples em Tabelas - 12
+https://www.youtube.com/watch?v=5sTFJHOSDvg
+
+SQL SELECT Statement
+https://www.w3schools.com/sql/sql_select.asp
+
+SQL SELECT DISTINCT Statement
+https://www.w3schools.com/sql/sql_distinct.asp
+
+MySQL - ORDER BY - Consultas com ordenação - Curso de Bancos de Dados - 13
+https://www.youtube.com/watch?v=qAtiTGjxrcA
+
+SQL ORDER BY Keyword
+https://www.w3schools.com/sql/sql_orderby.asp
