@@ -1,0 +1,5 @@
+MySQL - Bancos de Dados, SGBDR e Grupos de Comandos - Curso de Bancos de Dados - 04
+https://www.youtube.com/watch?v=cPlvnf1BHxw&t=5s
+
+SQL Syntax
+https://www.w3schools.com/sql/sql_syntax.asp

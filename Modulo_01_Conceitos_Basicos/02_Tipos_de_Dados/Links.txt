@@ -1,0 +1,8 @@
+w3schools
+https://www.w3schools.com/
+
+SQL Data Types for MySQL, SQL Server, and MS Access
+https://www.w3schools.com/sql/sql_datatypes.asp
+
+MySQL - Tipos de Dados comuns - 09
+https://www.youtube.com/watch?v=5oost838ogk
