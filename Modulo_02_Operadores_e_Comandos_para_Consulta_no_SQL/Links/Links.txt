@@ -33,3 +33,6 @@ https://www.w3schools.com/sql/sql_count_avg_sum.asp
 
 SQL LIKE Operator
 https://www.w3schools.com/sql/sql_like.asp
+
+SQL GROUP BY Statement
+https://www.w3schools.com/sql/sql_groupby.asp
