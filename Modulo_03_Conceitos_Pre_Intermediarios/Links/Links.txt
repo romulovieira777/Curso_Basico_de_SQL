@@ -1,2 +1,6 @@
 SQL HAVING Clause
 https://www.w3schools.com/sql/sql_having.asp
+
+SQL Views
+https://www.w3schools.com/sql/sql_view.asp
+
