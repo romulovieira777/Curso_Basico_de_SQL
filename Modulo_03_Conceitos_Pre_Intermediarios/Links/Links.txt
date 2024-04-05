@@ -4,3 +4,41 @@ https://www.w3schools.com/sql/sql_having.asp
 SQL Views
 https://www.w3schools.com/sql/sql_view.asp
 
+SQL Joins
+https://www.w3schools.com/sql/sql_join.asp
+
+SQL INNER JOIN
+https://www.w3schools.com/sql/sql_join_inner.asp
+
+SQL LEFT JOIN Keyword
+https://www.w3schools.com/sql/sql_join_left.asp
+
+SQL RIGHT JOIN Keyword
+https://www.w3schools.com/sql/sql_join_right.asp
+
+SQL FULL OUTER JOIN Keyword
+https://www.w3schools.com/sql/sql_join_full.asp
+
+SQL Self Join
+https://www.w3schools.com/sql/sql_join_self.asp
+
+SQL UNION Operator
+https://www.w3schools.com/sql/sql_union.asp
+
+SQL NULL Functions
+https://www.w3schools.com/sql/sql_isnull.asp
+
+SQL Keywords Reference
+https://www.w3schools.com/sql/sql_ref_keywords.asp
+
+MySQL Functions
+https://www.w3schools.com/sql/sql_ref_mysql.asp
+
+SQL Server Functions
+https://www.w3schools.com/sql/sql_ref_sqlserver.asp
+
+MS Access Functions
+https://www.w3schools.com/sql/sql_ref_microsoft_access.asp
+
+SQL Quick Reference from W3Schools
+https://www.w3schools.com/sql/sql_quickref.asp
