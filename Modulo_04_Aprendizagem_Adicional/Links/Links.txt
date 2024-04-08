@@ -1,0 +1,14 @@
+MySQl
+https://www.mysql.com/
+
+Como Baixar e Instalar MySQL 8.0 e MySQL Workbench no Windows 10
+https://www.youtube.com/watch?v=fmerTu7dWk8
+
+MySQL - Instalação no Linux Ubuntu
+https://www.youtube.com/watch?v=T3t-wziJN6I
+
+MySQL - Instalação do MySQL Workbench (GUI) no Linux Ubuntu
+https://www.youtube.com/watch?v=Lm_lNeTxsKI
+
+Banco de Dados - MySQL - Instalação do MySQL Workbench passo-a-passo no MacBook Pro, MacBook Air.
+https://www.youtube.com/watch?v=nfBMKc2gkcU
