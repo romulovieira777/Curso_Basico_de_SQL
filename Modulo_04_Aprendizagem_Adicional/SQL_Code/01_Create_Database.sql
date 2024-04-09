@@ -3,3 +3,11 @@ CREATE DATABASE IF NOT EXISTS
 
 
 USE banco_teste;
+
+
+CREATE DATABASE
+    db_Biblioteca;
+
+
+USE
+    db_Biblioteca;

@@ -12,3 +12,12 @@ https://www.youtube.com/watch?v=Lm_lNeTxsKI
 
 Banco de Dados - MySQL - Instalação do MySQL Workbench passo-a-passo no MacBook Pro, MacBook Air.
 https://www.youtube.com/watch?v=nfBMKc2gkcU
+
+MySQL - Criação de um Banco de Dados
+https://www.youtube.com/watch?v=_NPU_o0n-fo
+
+MySQL - Constraints (Restrições) Primary Key, FK, Default, etc
+https://www.youtube.com/watch?v=10Gu4XZBMdo
+
+MySQL - Criação de Tabelas - CREATE TABLE
+https://www.youtube.com/watch?v=H1_3ttK2Wbw
