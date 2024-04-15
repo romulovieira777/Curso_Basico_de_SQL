@@ -21,3 +21,18 @@ https://www.youtube.com/watch?v=10Gu4XZBMdo
 
 MySQL - Criação de Tabelas - CREATE TABLE
 https://www.youtube.com/watch?v=H1_3ttK2Wbw
+
+MySQL - Auto Incremento de valores em colunas
+https://www.youtube.com/watch?v=-jWUUGiKDeI
+
+SQL CREATE DATABASE Statement
+https://www.w3schools.com/sql/sql_create_db.asp
+
+SQL Constraints
+https://www.w3schools.com/sql/sql_constraints.asp
+
+SQL CREATE TABLE Statement
+https://www.w3schools.com/sql/sql_create_table.asp
+
+MySQL - Alterar Tabelas - ALTER TABLE e visualizar Relacionamentos
+https://www.youtube.com/watch?v=ZTWhdNG963M
