@@ -36,3 +36,18 @@ https://www.w3schools.com/sql/sql_create_table.asp
 
 MySQL - Alterar Tabelas - ALTER TABLE e visualizar Relacionamentos
 https://www.youtube.com/watch?v=ZTWhdNG963M
+
+MySQL - INSERT INTO - Inserir Dados em Tabelas
+https://www.youtube.com/watch?v=ONfaKQOyjH4
+
+Indexar Tabelas em MySQL - CREATE INDEX
+https://www.youtube.com/watch?v=HsZA-pPAt7g
+
+MySQL - DELETE e TRUNCATE TABLE
+https://www.youtube.com/watch?v=f-r0VqSuT58
+
+MySQL - Renomear tabelas com RENAME TABLE
+https://www.youtube.com/watch?v=2pRcgyor97I
+
+MySQL - UPDATE - Modificar Registros
+https://www.youtube.com/watch?v=0n8_RS-iNr0
